@@ -1,0 +1,29 @@
+@font-face {
+  font-family: acme;
+  src: url(../assets/fonts/Acme-Regular.ttf);
+}
+@font-face {
+  font-family: anekbold;
+  src: url(../assets/fonts/AnekBangla-Bold.ttf);
+}
+@font-face {
+  font-family: anekguja;
+  src: url(../assets/fonts/AnekGujarati-Thin.ttf);
+}
+@font-face {
+  font-family: b612;
+  src: url(../assets/fonts/B612Mono-Bold.ttf);
+}
+@font-face {
+  font-family: poppins;
+  src: url(../assets/fonts/Poppins-Medium.ttf);
+}
+@font-face {
+  font-family: manrope;
+  src: url(../assets/fonts/Manrope-VariableFont_wght.ttf);
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
